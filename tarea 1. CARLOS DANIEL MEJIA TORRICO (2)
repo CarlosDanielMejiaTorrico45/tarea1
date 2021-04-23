@@ -1,0 +1,20 @@
+Algoritmo suma_multiplicacion 
+	definir n1 como real 
+	definir n2 como real 
+	definir n3 como real
+	escribir "Ingrese el primer numero "
+	leer n1
+	escribir "Ingrese el segundo numero "
+	leer n2
+	escribir "Ingrese el tercer numero "
+	leer n3 
+	definir suma, multiplicacion como real
+	suma <-n1 +n2 +n3
+	multiplicacion <-n1 *n2 *n3
+	escribir " la suma de numeros es:  " suma 
+	escribir " la multiplicacion de numeros es:  " multiplicacion 
+	
+	
+FinAlgoritmo
+
+
